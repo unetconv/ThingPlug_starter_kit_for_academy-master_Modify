@@ -23,7 +23,7 @@ module.exports = {
   TPhost : 'onem2m.sktiot.com',      		// ThingPlug의 HOST Addresss
   TPport : '9000',                             		// ThingPlug의 HTTP PORT 번호
 
-  responseAddress : 'http://127.0.0.1',         // HTTP버전에서 디바이스 제어를 위한 디바이스의 물리적 주소 mga
+  responseAddress : 'http://127.0.0.1aaa',         // HTTP버전에서 디바이스 제어를 위한 디바이스의 물리적 주소 mga
   responsePORT : '5005',                        	// HTTP버전에서 디바이스제어를 위한 디바이스의 물리적 주소의 로컬 포트
 
   userID : 'userID',                            	// MQTT버전에서 Broker 접속을 위한 ID, 포털 ID 사용
